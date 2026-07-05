@@ -25,7 +25,9 @@ The page is designed around a single concept: a fictional neural-augmentation la
 
 ## File Structure
 ├── index.html
+
 ├── style.css
+
 └── script.js
 
 ## Run Locally
@@ -36,8 +38,6 @@ python -m http.server
 
 
 
-Author
-Sourav — GitHub · LinkedIn
 
 
 
